@@ -41,6 +41,7 @@ Test an algorithm is easy:
 
 1. Create a new file that exports an object
 1. The exported object should fulfill the following interface
+
    ```js
    {
        name: 'name-of-the-algorithm-or-used-library',
@@ -52,6 +53,7 @@ Test an algorithm is easy:
     }
    ```
 1. Then edit `index.js` and require your file in the following line:
+
     ```js
     const testingLibrary = require('./your_file.js');
     ```
