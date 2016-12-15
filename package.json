@@ -1,0 +1,20 @@
+{
+  "name": "test_guuid",
+  "version": "0.0.1",
+  "description": "Test different libs if they are able to provide UUID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "GUUID"
+  ],
+  "author": "Danielo Rodriguez Rivero",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "mongodb": "^2.2.16",
+    "node-uuid": "^1.4.7"
+  }
+}
