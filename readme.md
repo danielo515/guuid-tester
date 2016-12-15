@@ -37,7 +37,8 @@ requirments and other that does not:
 - cryptojs.js uses CryptoJS library and does not fulfills the requirments
 
 # Testing an algorithm
-Test an algorithm is easy.
+Test an algorithm is easy:
+
 1. Create a new file that exports an object
 1. The exported object should fulfill the following interface
    ```js
