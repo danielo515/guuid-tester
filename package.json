@@ -10,8 +10,12 @@
     "test",
     "GUUID"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielo515/guuid-tester"
+  },
   "author": "Danielo Rodriguez Rivero",
-  "license": "ISC",
+  "license" : "BSD-3-Clause",
   "dependencies": {
     "crypto-js": "^3.1.9-1",
     "mongodb": "^2.2.16",
