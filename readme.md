@@ -30,7 +30,7 @@ For the shake of simplicity we include a `docker-compose` file, so the easiest w
 
 ```sh
 cd guuid-tester #make sure you are on the app folder
-docker-compose up && node index.js
+docker-compose up && node src/index.js
 ```
 
 We include some example algorithms, one that fulfills the GUUID
