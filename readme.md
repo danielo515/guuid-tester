@@ -10,6 +10,8 @@ For small test we recommend you to use a local unprotected mongodb docker image.
 The installation is easy, just cd to the app folder and run:
 
 ```sh
+git clone git@github.com:danielo515/guuid-tester.git
+cd guuid-tester
 npm install
 ```
 
@@ -27,7 +29,7 @@ In any case you will need
 For the shake of simplicity we include a `docker-compose` file, so the easiest way to use it is
 
 ```sh
-cd app-folder
+cd guuid-tester #make sure you are on the app folder
 docker-compose up && node index.js
 ```
 
