@@ -1,4 +1,6 @@
 # GUUID uniquenes tester
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/danielo515/guuid-tester.svg)](https://greenkeeper.io/)
 This is a very small and stupid utility to check if an algorithm is able to
 generate GUUIDs (	Globally Universally Unique Identifier ).
 
